@@ -1,2 +1,6 @@
-# githubRepository
-My First github repository
+FIRST NAME: UMME
+LAST NAME: KAUNAIN HURERA
+EMAIL ID: ummekaunain06@gmail.com
+GITHUB ID: UMMEKAUNAIN2005
+MOBILE NUMBER: 7483465523
+
